@@ -1,9 +1,9 @@
-<h1><strong>Virtual Shopping Mall</strong></h1>
+<h1><strong>virtual shopping mall</strong></h1>
 
-<h3><strong>Project Overview</strong></h3>
+<h3><strong>project overview</strong></h3>
 <p>This project simulates a virtual shopping experience where users can try on different clothing items using a console-based interface.</p>
 
-<h3><strong>Output</strong></h3>
+<h3><strong>output</strong></h3>
 <p>the program runs entirely in the console, where you will see a list of products, select items to try on, and receive feedback on how the item fits.</p>
 
 ![Screenshot 2024-08-17 221416](https://github.com/user-attachments/assets/da964bdb-d4c2-4f2b-9128-dc2160e200bf)
