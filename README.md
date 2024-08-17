@@ -10,19 +10,5 @@
     <li><strong>User-Friendly Interface:</strong> Simple text-based interaction allows you to easily navigate the shopping experience.</li>
 </ul>
 
-<h3><strong>How to Run</strong></h3>
-<ol>
-    <li>Make sure you have Python installed on your computer.</li>
-    <li>Download or clone the project to your local machine.</li>
-    <li>Open a terminal and navigate to the project directory.</li>
-    <li>Run the program using the command: <code>python virtual_shopping.py</code></li>
-    <li>Follow the on-screen instructions to try on different items.</li>
-</ol>
-
-<h3><strong>Project Structure</strong></h3>
-<ul>
-    <li><strong>virtual_shopping.py:</strong> The main program file containing all the code for the virtual shopping experience.</li>
-</ul>
-
 <h3><strong>Output</strong></h3>
 <p>The program runs entirely in the console, where you will see a list of products, select items to try on, and receive feedback on how the item fits.</p>
